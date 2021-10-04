@@ -1,0 +1,26 @@
+export default[
+  {
+    id:1,
+    name:"ahmed",
+    age:30,
+    image:'logo192.png',
+  },
+  {
+    id:2,
+    name:"ahmed2",
+    age:32,
+    image:'img/1.jpg',
+  },
+  {
+    id:3,
+    name:"ahmed3",
+    age:33,
+    image:'img/1.jpg',
+  },
+  {
+    id:4,
+    name:"ahmed4",
+    age:34,
+    image:'img/1.jpg',
+  },
+]

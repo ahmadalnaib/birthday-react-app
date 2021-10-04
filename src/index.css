@@ -1,0 +1,16 @@
+body {
+  background: pink;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.App {
+  background: #fff;
+  color: #333;
+  padding: 10px 20px;
+  box-shadow: 5px 3px 5px rgba(0, 0, 0, 0.8);
+
+}
